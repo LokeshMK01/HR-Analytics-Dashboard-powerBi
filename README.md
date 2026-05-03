@@ -82,7 +82,7 @@ GROUP BY department;
 HR-Analytics-Dashboard-PowerBI/
 │
 ├── HR_Analytics_Dashboard.pbix
-├── hr_dashboard.png
+├── HR_Dashboard.png
 ├── hr_database.sql
 └── README.md
 
